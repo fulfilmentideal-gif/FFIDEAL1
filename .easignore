@@ -1,0 +1,9 @@
+# Files and folders to ignore in EAS builds
+node_modules
+.git
+.gitignore
+README.md
+*.zip
+*.env
+*.log
+.DS_Store
